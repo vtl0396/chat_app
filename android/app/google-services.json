@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "972840071969",
+    "firebase_url": "https://simple-chat-app-2441e.firebaseio.com",
+    "project_id": "simple-chat-app-2441e",
+    "storage_bucket": "simple-chat-app-2441e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972840071969:android:3d6775aee02a3989590460",
+        "android_client_info": {
+          "package_name": "com.mellicapstudio.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972840071969-9tnam998fr9k8mu2llhk9gla2qcvmbtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAojECI2K5bsjgX4ikRKGs1jsNwUk1DSfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972840071969-9tnam998fr9k8mu2llhk9gla2qcvmbtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
